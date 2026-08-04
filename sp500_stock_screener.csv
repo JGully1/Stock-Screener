@@ -1,0 +1,503 @@
+Ticker,Company Name,Market Cap (USD),P/E Ratio,Dividend Yield,Sector,Industry,Currency
+AAPL,Apple Inc.,4505004408832.0,35.440296,0.36,Technology,Consumer Electronics,USD
+NVDA,NVIDIA Corporation,5151806455808.0,32.57274,0.5,Technology,Semiconductors,USD
+MSFT,Microsoft Corporation,3690848845824.0,26.4106,0.75,Technology,Software - Infrastructure,USD
+AMZN,"Amazon.com, Inc.",2992123150336.0,22.299036,,Consumer Cyclical,Internet Retail,USD
+GOOGL,Alphabet Inc.,4645907857408.0,19.041603,0.24,Communication Services,Internet Content & Information,USD
+GOOG,Alphabet Inc.,4611480485888.0,18.919468,0.24,Communication Services,Internet Content & Information,USD
+META,"Meta Platforms, Inc.",1501525573632.0,22.19164,0.36,Communication Services,Internet Content & Information,USD
+TSLA,"Tesla, Inc.",1299993591808.0,299.22726,,Consumer Cyclical,Auto Manufacturers,USD
+AVGO,Broadcom Inc.,2003987988480.0,69.73841,0.67,Technology,Semiconductors,USD
+BRK-B,Berkshire Hathaway Inc.,1113680642048.0,15.362837,,Financial Services,Insurance - Diversified,USD
+WMT,Walmart Inc.,884222132224.0,39.12324,0.89,Consumer Defensive,Discount Stores,USD
+LLY,Eli Lilly and Company,993694121984.0,39.585434,0.6,Healthcare,Drug Manufacturers - General,USD
+JPM,JPMorgan Chase & Co.,955689336832.0,15.417024,1.71,Financial Services,Banks - Diversified,USD
+V,Visa Inc.,690658148352.0,31.50937,0.73,Financial Services,Credit Services,USD
+MA,Mastercard Incorporated,501130231808.0,31.605524,0.61,Financial Services,Credit Services,USD
+ORCL,Oracle Corporation,424610234368.0,25.284735,1.54,Technology,Software - Infrastructure,USD
+XOM,ExxonMobil Holdings Corporation,640415105024.0,26.098818,2.65,Energy,Oil & Gas Integrated,USD
+UNH,UnitedHealth Group Incorporated,371685326848.0,30.796087,2.24,Healthcare,Healthcare Plans,USD
+COST,Costco Wholesale Corporation,420067573760.0,47.50301,0.62,Consumer Defensive,Discount Stores,USD
+PG,The Procter & Gamble Company,344120360960.0,22.289593,3.01,Consumer Defensive,Household & Personal Products,USD
+HD,"The Home Depot, Inc.",347375501312.0,24.1595,2.81,Consumer Cyclical,Home Improvement Retail,USD
+NFLX,"Netflix, Inc.",305820532736.0,23.095911,,Communication Services,Entertainment,USD
+JNJ,Johnson & Johnson,611825025024.0,29.452436,2.09,Healthcare,Drug Manufacturers - General,USD
+BAC,Bank of America Corporation,441801867264.0,14.591225,2.05,Financial Services,Banks - Diversified,USD
+CRM,"Salesforce, Inc.",156191490048.0,21.870413,0.96,Technology,Software - Application,USD
+ABBV,AbbVie Inc.,431662563328.0,70.59971,2.82,Healthcare,Drug Manufacturers - General,USD
+KO,The Coca-Cola Company,371912343552.0,26.193941,2.44,Consumer Defensive,Beverages - Non-Alcoholic,USD
+TMUS,"T-Mobile US, Inc.",189787897856.0,18.507332,2.3,Communication Services,Telecom Services,USD
+CVX,Chevron Corporation,380166111232.0,18.371992,3.69,Energy,Oil & Gas Integrated,USD
+MRK,"Merck & Co., Inc.",318039326720.0,36.89685,2.61,Healthcare,Drug Manufacturers - General,USD
+WFC,Wells Fargo & Company,268077531136.0,12.664286,2.28,Financial Services,Banks - Diversified,USD
+CSCO,"Cisco Systems, Inc.",477623058432.0,40.393333,1.45,Technology,Communication Equipment,USD
+ACN,Accenture plc,103300407296.0,13.493804,3.93,Technology,Information Technology Services,USD
+NOW,"ServiceNow, Inc.",121561497600.0,71.69512,,Technology,Software - Application,USD
+AXP,American Express Company,234896392192.0,21.106493,1.1,Financial Services,Credit Services,USD
+MCD,McDonald's Corporation,188781412352.0,21.922443,2.75,Consumer Cyclical,Restaurants,USD
+PEP,"PepsiCo, Inc.",189751066624.0,18.22966,4.24,Consumer Defensive,Beverages - Non-Alcoholic,USD
+BX,Blackstone Inc.,170971709440.0,30.731544,3.88,Financial Services,Asset Management,USD
+IBM,International Business Machines Corporation,219611529216.0,20.68323,2.99,Technology,Information Technology Services,USD
+DIS,The Walt Disney Company,170716446720.0,15.7296,1.53,Communication Services,Entertainment,USD
+LIN,Linde plc,222664933376.0,31.122744,1.33,Basic Materials,Specialty Chemicals,USD
+TMO,Thermo Fisher Scientific Inc.,208944185344.0,30.381718,0.33,Healthcare,Diagnostics & Research,USD
+MS,Morgan Stanley,343434854400.0,17.64701,2.18,Financial Services,Capital Markets,USD
+ABT,Abbott Laboratories,183865786368.0,34.16181,2.38,Healthcare,Medical Devices,USD
+ADBE,Adobe Inc.,102074032128.0,14.698914,,Technology,Software - Application,USD
+AMD,"Advanced Micro Devices, Inc.",861919182848.0,176.19667,,Technology,Semiconductors,USD
+PM,Philip Morris International Inc.,291460710400.0,25.651577,3.14,Consumer Defensive,Tobacco,USD
+ISRG,"Intuitive Surgical, Inc.",130868215808.0,39.40345,,Healthcare,Medical Instruments & Supplies,USD
+PLTR,Palantir Technologies Inc.,392451981312.0,181.89445,,Technology,Software - Infrastructure,USD
+GE,GE Aerospace,391633141760.0,44.458775,0.51,Industrials,Aerospace & Defense,USD
+INTU,Intuit Inc.,88063868928.0,19.488195,1.51,Technology,Software - Application,USD
+GS,"The Goldman Sachs Group, Inc.",312460083200.0,16.214943,1.95,Financial Services,Capital Markets,USD
+CAT,Caterpillar Inc.,408791482368.0,44.177948,0.79,Industrials,Farm & Heavy Construction Machinery,USD
+TXN,Texas Instruments Incorporated,259618045952.0,43.13809,2.06,Technology,Semiconductors,USD
+QCOM,QUALCOMM Incorporated,170908499968.0,18.602285,2.43,Technology,Semiconductors,USD
+VZ,Verizon Communications Inc.,194879733760.0,12.088917,5.98,Communication Services,Telecom Services,USD
+BKNG,Booking Holdings Inc.,150915317760.0,25.72787,0.83,Consumer Cyclical,Travel Services,USD
+DHR,Danaher Corporation,137623584768.0,34.405975,0.81,Healthcare,Diagnostics & Research,USD
+T,AT&T Inc.,160448626688.0,7.727723,4.77,Communication Services,Telecom Services,USD
+BLK,"BlackRock, Inc.",185233326080.0,27.32502,2.03,Financial Services,Asset Management,USD
+RTX,RTX Corporation,293820563456.0,38.381496,1.35,Industrials,Aerospace & Defense,USD
+SPGI,S&P Global Inc.,122153320448.0,24.946417,0.93,Financial Services,Financial Data & Stock Exchanges,USD
+PFE,Pfizer Inc.,144993861632.0,19.41985,6.87,Healthcare,Drug Manufacturers - General,USD
+HON,Honeywell International Inc.,78948171776.0,9.576894,1.13,Industrials,Conglomerates,USD
+NEE,"NextEra Energy, Inc.",181823078400.0,19.679459,2.88,Utilities,Utilities - Regulated Electric,USD
+CMCSA,Comcast Corporation,87952957440.0,7.9439106,5.51,Communication Services,Telecom Services,USD
+ANET,"Arista Networks, Inc.",242887491584.0,66.51552,,Technology,Computer Hardware,USD
+AMGN,Amgen Inc.,209725243392.0,27.060585,2.66,Healthcare,Drug Manufacturers - General,USD
+PGR,The Progressive Corporation,122297368576.0,10.554942,6.57,Financial Services,Insurance - Property & Casualty,USD
+LOW,"Lowe's Companies, Inc.",121759432704.0,18.346577,2.36,Consumer Cyclical,Home Improvement Retail,USD
+SYK,Stryker Corporation,128608215040.0,33.19703,1.03,Healthcare,Medical Devices,USD
+UNP,Union Pacific Corporation,175617622016.0,23.936436,1.95,Industrials,Railroads,USD
+TJX,"The TJX Companies, Inc.",174046183424.0,30.7115,1.22,Consumer Cyclical,Apparel Retail,USD
+KKR,KKR & Co. Inc.,100824899584.0,34.993526,0.73,Financial Services,Asset Management,USD
+SCHW,The Charles Schwab Corporation,185357058048.0,19.41348,1.21,Financial Services,Capital Markets,USD
+ETN,Eaton Corporation plc,172750798848.0,41.269947,1.0,Industrials,Specialty Industrial Machinery,USD
+AMAT,"Applied Materials, Inc.",435272351744.0,51.62241,0.41,Technology,Semiconductor Equipment & Materials,USD
+BA,The Boeing Company,186975158272.0,85.15813,,Industrials,Aerospace & Defense,USD
+BSX,Boston Scientific Corporation,70903554048.0,19.807692,,Healthcare,Medical Devices,USD
+C,Citigroup Inc.,230491553792.0,14.807113,2.01,Financial Services,Banks - Diversified,USD
+UBER,"Uber Technologies, Inc.",146461343744.0,17.54878,,Technology,Software - Application,USD
+COP,ConocoPhillips,143965798400.0,20.028812,2.82,Energy,Oil & Gas E&P,USD
+PANW,"Palo Alto Networks, Inc.",295470104576.0,312.5345,,Technology,Software - Infrastructure,USD
+ADP,"Automatic Data Processing, Inc.",106755596288.0,24.508219,2.52,Technology,Software - Application,USD
+DE,Deere & Company,166957367296.0,34.98104,1.07,Industrials,Farm & Heavy Construction Machinery,USD
+FI,N/A,,,,N/A,N/A,USD
+BMY,Bristol-Myers Squibb Company,135125573632.0,14.570485,3.85,Healthcare,Drug Manufacturers - General,USD
+LMT,Lockheed Martin Corporation,136085774336.0,21.718233,2.35,Industrials,Aerospace & Defense,USD
+GILD,"Gilead Sciences, Inc.",165054300160.0,18.111717,2.5,Healthcare,Drug Manufacturers - General,USD
+NKE,"NIKE, Inc.",61453934592.0,19.72619,3.85,Consumer Cyclical,Footwear & Accessories,USD
+CB,Chubb Limited,134381543424.0,12.34737,1.17,Financial Services,Insurance - Property & Casualty,USD
+UPS,"United Parcel Service, Inc.",92429680640.0,20.211895,6.14,Industrials,Integrated Freight & Logistics,USD
+ADI,"Analog Devices, Inc.",185399934976.0,56.557205,1.22,Technology,Semiconductors,USD
+MMC,N/A,,,,N/A,N/A,USD
+MDT,Medtronic plc,110058291200.0,22.686016,3.32,Healthcare,Medical Devices,USD
+VRTX,Vertex Pharmaceuticals Incorporated,120439554048.0,28.552044,,Healthcare,Biotechnology,USD
+MU,"Micron Technology, Inc.",1014895280128.0,20.32617,0.06,Technology,Semiconductors,USD
+SBUX,Starbucks Corporation,119916601344.0,60.80347,2.4,Consumer Cyclical,Restaurants,USD
+PLD,"Prologis, Inc.",133934563328.0,31.310268,2.97,Real Estate,REIT - Industrial,USD
+GEV,GE Vernova Inc.,271449849856.0,29.237234,0.2,Industrials,Specialty Industrial Machinery,USD
+LRCX,Lam Research Corporation,395635326976.0,54.514652,0.35,Technology,Semiconductor Equipment & Materials,USD
+MO,"Altria Group, Inc.",113425702912.0,14.301053,6.21,Consumer Defensive,Tobacco,USD
+SO,The Southern Company,107213832192.0,22.45783,3.27,Utilities,Utilities - Regulated Electric,USD
+EQIX,"Equinix, Inc.",103794728960.0,67.5607,2.0,Real Estate,REIT - Specialty,USD
+CRWD,"CrowdStrike Holdings, Inc.",214659235840.0,,,Technology,Software - Infrastructure,USD
+PYPL,"PayPal Holdings, Inc.",50194259968.0,10.884112,0.97,Financial Services,Credit Services,USD
+SHW,The Sherwin-Williams Company,87338311680.0,33.189575,0.9,Basic Materials,Specialty Chemicals,USD
+ICE,"Intercontinental Exchange, Inc.",83967778816.0,21.095911,1.37,Financial Services,Financial Data & Stock Exchanges,USD
+CME,CME Group Inc.,94682611712.0,22.486336,1.95,Financial Services,Financial Data & Stock Exchanges,USD
+AMT,American Tower Corporation,81612898304.0,28.295637,4.03,Real Estate,REIT - Specialty,USD
+APH,Amphenol Corporation,212701970432.0,42.385746,0.61,Technology,Electronic Components,USD
+ELV,"Elevance Health, Inc.",81734787072.0,16.661583,1.8,Healthcare,Healthcare Plans,USD
+TT,Trane Technologies plc,104233779200.0,34.808228,0.91,Industrials,Building Products & Equipment,USD
+MCO,Moody's Corporation,83781500928.0,30.426416,0.86,Financial Services,Financial Data & Stock Exchanges,USD
+CMG,"Chipotle Mexican Grill, Inc.",43239329792.0,31.348621,,Consumer Cyclical,Restaurants,USD
+INTC,Intel Corporation,508889137152.0,,,Technology,Semiconductors,USD
+KLAC,KLA Corporation,255664177152.0,53.47541,0.5,Technology,Semiconductor Equipment & Materials,USD
+ABNB,"Airbnb, Inc.",88954519552.0,37.00741,,Consumer Cyclical,Travel Services,USD
+DUK,Duke Energy Corporation,97274118144.0,19.196154,3.49,Utilities,Utilities - Regulated Electric,USD
+PH,Parker-Hannifin Corporation,125835485184.0,36.786217,0.8,Industrials,Specialty Industrial Machinery,USD
+CDNS,"Cadence Design Systems, Inc.",94251843584.0,67.93638,,Technology,Software - Application,USD
+WM,"Waste Management, Inc.",90195730432.0,59.381577,1.56,Industrials,Waste Management,USD
+DELL,Dell Technologies Inc.,305654431744.0,37.63286,0.59,Technology,Computer Hardware,USD
+MDLZ,"Mondelez International, Inc.",79470755840.0,37.75,3.24,Consumer Defensive,Confectioners,USD
+MAR,"Marriott International, Inc.",89604513792.0,38.695946,0.84,Consumer Cyclical,Lodging,USD
+MSI,"Motorola Solutions, Inc.",73809936384.0,35.686195,1.11,Technology,Communication Equipment,USD
+WELL,Welltower Inc.,167151091712.0,104.02242,1.46,Real Estate,REIT - Healthcare Facilities,USD
+AON,Aon plc,75121041408.0,19.685104,0.92,Financial Services,Insurance Brokers,USD
+REGN,"Regeneron Pharmaceuticals, Inc.",78282858496.0,18.82545,0.5,Healthcare,Biotechnology,USD
+CI,The Cigna Group,72151146496.0,11.297108,2.21,Healthcare,Healthcare Plans,USD
+HCA,"HCA Healthcare, Inc.",88806916096.0,13.4335575,0.77,Healthcare,Medical Care Facilities,USD
+PNC,"The PNC Financial Services Group, Inc.",102052233216.0,13.976503,3.18,Financial Services,Banks - Regional,USD
+ITW,Illinois Tool Works Inc.,84907458560.0,26.708145,2.23,Industrials,Specialty Industrial Machinery,USD
+SNPS,"Synopsys, Inc.",77162340352.0,92.639084,,Technology,Software - Infrastructure,USD
+CTAS,Cintas Corporation,81566564352.0,41.51324,1.02,Industrials,Specialty Business Services,USD
+CL,Colgate-Palmolive Company,73714573312.0,36.405514,2.32,Consumer Defensive,Household & Personal Products,USD
+USB,U.S. Bancorp,100730724352.0,12.907186,3.25,Financial Services,Banks - Regional,USD
+FTNT,"Fortinet, Inc.",123597733888.0,59.52474,,Technology,Software - Infrastructure,USD
+ZTS,Zoetis Inc.,31758624768.0,12.459703,2.75,Healthcare,Drug Manufacturers - Specialty & Generic,USD
+MCK,McKesson Corporation,97134141440.0,22.386805,0.44,Healthcare,Medical Distribution,USD
+GD,General Dynamics Corporation,104781389824.0,23.600245,1.66,Industrials,Aerospace & Defense,USD
+TDG,TransDigm Group Incorporated,70542598144.0,39.399723,,Industrials,Aerospace & Defense,USD
+CEG,Constellation Energy Corporation,96510394368.0,22.540451,0.62,Utilities,Utilities - Independent Power Producers,USD
+AJG,Arthur J. Gallagher & Co.,63373901824.0,41.204166,1.13,Financial Services,Insurance Brokers,USD
+EMR,Emerson Electric Co.,87991705600.0,35.224216,1.43,Industrials,Specialty Industrial Machinery,USD
+MMM,3M Company,93211672576.0,32.0461,1.76,Industrials,Conglomerates,USD
+ORLY,"O'Reilly Automotive, Inc.",74866892800.0,28.936909,,Consumer Cyclical,Auto Parts,USD
+NOC,Northrop Grumman Corporation,78515388416.0,17.556543,1.71,Industrials,Aerospace & Defense,USD
+COF,Capital One Financial Corporation,136500682752.0,11.778455,1.47,Financial Services,Credit Services,USD
+ECL,Ecolab Inc.,79356936192.0,37.646194,1.04,Basic Materials,Specialty Chemicals,USD
+EOG,"EOG Resources, Inc.",76634595328.0,14.445784,2.8,Energy,Oil & Gas E&P,USD
+FDX,FedEx Corporation,74177667072.0,16.902428,1.59,Industrials,Integrated Freight & Logistics,USD
+BDX,"Becton, Dickinson and Company",46801915904.0,29.591463,2.47,Healthcare,Medical Instruments & Supplies,USD
+APD,"Air Products and Chemicals, Inc.",65649922048.0,,2.47,Basic Materials,Specialty Chemicals,USD
+WMB,"The Williams Companies, Inc.",88306589696.0,32.09111,2.98,Energy,Oil & Gas Midstream,USD
+SPG,"Simon Property Group, Inc.",85865897984.0,15.725471,3.84,Real Estate,REIT - Retail,USD
+ADSK,"Autodesk, Inc.",50024529920.0,34.58686,,Technology,Software - Application,USD
+RCL,Royal Caribbean Cruises Ltd.,87180017664.0,20.121296,1.54,Consumer Cyclical,Travel Services,USD
+RSG,"Republic Services, Inc.",64352559104.0,30.139048,1.28,Industrials,Waste Management,USD
+CARR,Carrier Global Corporation,54801698816.0,47.128574,1.55,Industrials,Building Products & Equipment,USD
+CSX,CSX Corporation,94337277952.0,29.955881,1.12,Industrials,Railroads,USD
+HLT,Hilton Worldwide Holdings Inc.,70418309120.0,46.97898,0.19,Consumer Cyclical,Lodging,USD
+DLR,"Digital Realty Trust, Inc.",73180979200.0,249.30771,2.55,Real Estate,REIT - Specialty,USD
+TGT,Target Corporation,67597262848.0,19.660501,3.11,Consumer Defensive,Discount Stores,USD
+KMI,"Kinder Morgan, Inc.",70182133760.0,20.351614,3.76,Energy,Oil & Gas Midstream,USD
+OKE,"ONEOK, Inc.",55121571840.0,16.053211,4.85,Energy,Oil & Gas Midstream,USD
+TFC,Truist Financial Corporation,64685109248.0,12.172414,4.01,Financial Services,Banks - Regional,USD
+AFL,Aflac Incorporated,63918325760.0,14.335616,1.91,Financial Services,Insurance - Life,USD
+GM,General Motors Company,79988793344.0,39.481697,0.82,Consumer Cyclical,Auto Manufacturers,USD
+BK,N/A,,,,N/A,N/A,USD
+ROP,"Roper Technologies, Inc.",38598537216.0,16.268236,0.93,Technology,Software - Application,USD
+MET,"MetLife, Inc.",61827837952.0,18.550194,2.46,Financial Services,Insurance - Life,USD
+CPRT,"Copart, Inc.",28273102848.0,18.229815,,Industrials,Specialty Business Services,USD
+FCX,Freeport-McMoRan Inc.,96604012544.0,32.941177,0.94,Basic Materials,Copper,USD
+CVS,CVS Health Corporation,132747476992.0,45.63158,2.52,Healthcare,Healthcare Plans,USD
+PCAR,PACCAR Inc,71377715200.0,28.54842,1.06,Industrials,Farm & Heavy Construction Machinery,USD
+SRE,Sempra,56864374784.0,29.587585,3.0,Utilities,Utilities - Diversified,USD
+AZO,"AutoZone, Inc.",49373097984.0,20.983278,,Consumer Cyclical,Auto Parts,USD
+TRV,"The Travelers Companies, Inc.",78887247872.0,10.178148,1.34,Financial Services,Insurance - Property & Casualty,USD
+NXPI,NXP Semiconductors N.V.,60012552192.0,47.408367,1.81,Technology,Semiconductors,USD
+JCI,Johnson Controls International plc,93138796544.0,43.19101,1.09,Industrials,Building Products & Equipment,USD
+GWW,"W.W. Grainger, Inc.",61489897472.0,35.30469,0.73,Industrials,Industrial Distribution,USD
+NSC,Norfolk Southern Corporation,76611665920.0,29.128096,1.6,Industrials,Railroads,USD
+PSA,Public Storage,61032247296.0,31.155388,3.7,Real Estate,REIT - Industrial,USD
+SLB,SLB N.V.,75246059520.0,24.731709,2.39,Energy,Oil & Gas Equipment & Services,USD
+AMP,"Ameriprise Financial, Inc.",48989511680.0,13.65648,1.23,Financial Services,Asset Management,USD
+ALL,The Allstate Corporation,67544682496.0,5.834779,1.64,Financial Services,Insurance - Property & Casualty,USD
+FICO,Fair Isaac Corporation,22633457664.0,32.54534,,Technology,Software - Application,USD
+MNST,Monster Beverage Corporation,92216385536.0,45.550728,,Consumer Defensive,Beverages - Non-Alcoholic,USD
+PAYX,"Paychex, Inc.",41988362240.0,24.091837,4.07,Technology,Software - Application,USD
+CHTR,"Charter Communications, Inc.",20416768000.0,3.9418423,,Communication Services,Telecom Services,USD
+AEP,"American Electric Power Company, Inc.",70069387264.0,22.229708,2.96,Utilities,Utilities - Regulated Electric,USD
+ROST,"Ross Stores, Inc.",80982794240.0,35.014565,0.7,Consumer Cyclical,Apparel Retail,USD
+PWR,"Quanta Services, Inc.",105503473664.0,80.56831,0.06,Industrials,Engineering & Construction,USD
+CMI,Cummins Inc.,87698259968.0,32.981056,1.36,Industrials,Specialty Industrial Machinery,USD
+AXON,"Axon Enterprise, Inc.",48473690112.0,221.91698,,Industrials,Aerospace & Defense,USD
+VST,Vistra Corp.,49002729472.0,24.343386,0.59,Utilities,Utilities - Independent Power Producers,USD
+URI,"United Rentals, Inc.",71361011712.0,26.687616,0.73,Industrials,Rental & Leasing Services,USD
+MSCI,MSCI Inc.,41742155776.0,31.238848,1.43,Financial Services,Financial Data & Stock Exchanges,USD
+LULU,lululemon athletica inc.,13905812480.0,9.915789,,Consumer Cyclical,Apparel Retail,USD
+O,Realty Income Corporation,58719055872.0,51.614754,5.12,Real Estate,REIT - Retail,USD
+PSX,Phillips 66,82520449024.0,20.337946,2.46,Energy,Oil & Gas Refining & Marketing,USD
+AIG,"American International Group, Inc.",42082467840.0,13.924562,2.54,Financial Services,Insurance - Diversified,USD
+FANG,"Diamondback Energy, Inc.",54231580672.0,202.92632,2.21,Energy,Oil & Gas E&P,USD
+D,"Dominion Energy, Inc.",60893978624.0,24.123695,3.88,Utilities,Utilities - Regulated Electric,USD
+HWM,Howmet Aerospace Inc.,116243226624.0,67.25231,0.2,Industrials,Aerospace & Defense,USD
+DHI,"D.R. Horton, Inc.",41977569280.0,13.960931,1.26,Consumer Cyclical,Residential Construction,USD
+KR,The Kroger Co.,35554983936.0,33.938595,2.47,Consumer Defensive,Grocery Stores,USD
+NDAQ,"Nasdaq, Inc.",52527099904.0,27.396502,1.23,Financial Services,Financial Data & Stock Exchanges,USD
+OXY,Occidental Petroleum Corporation,54779506688.0,76.49306,1.87,Energy,Oil & Gas E&P,USD
+EW,Edwards Lifesciences Corporation,51485159424.0,51.68497,,Healthcare,Medical Devices,USD
+COR,"Cencora, Inc.",59317776384.0,23.597523,0.78,Healthcare,Medical Distribution,USD
+KDP,Keurig Dr Pepper Inc.,42320203776.0,23.04074,2.96,Consumer Defensive,Beverages - Non-Alcoholic,USD
+FIS,"Fidelity National Information Services, Inc.",22414465024.0,8.40407,3.93,Technology,Information Technology Services,USD
+KMB,Kimberly-Clark Corporation,37004279808.0,21.56261,4.76,Consumer Defensive,Household & Personal Products,USD
+NEM,Newmont Corporation,103309787136.0,12.149381,1.09,Basic Materials,Gold,USD
+DFS,N/A,,,,N/A,N/A,USD
+PCG,PG&E Corporation,38508388352.0,12.579137,1.15,Utilities,Utilities - Regulated Electric,USD
+TEL,TE Connectivity plc,62944669696.0,21.262978,1.45,Technology,Electronic Components,USD
+MPC,Marathon Petroleum Corporation,90668228608.0,20.432568,1.3,Energy,Oil & Gas Refining & Marketing,USD
+FAST,Fastenal Company,56858505216.0,42.35043,2.0,Industrials,Industrial Distribution,USD
+AME,"AMETEK, Inc.",58343624704.0,38.10629,0.56,Industrials,Specialty Industrial Machinery,USD
+PEG,Public Service Enterprise Group Incorporated,38276067328.0,17.03104,3.5,Utilities,Utilities - Regulated Electric,USD
+PRU,"Prudential Financial, Inc.",42892914688.0,12.705247,4.55,Financial Services,Insurance - Life,USD
+KVUE,Kenvue Inc.,37449768960.0,23.220238,4.37,Consumer Defensive,Household & Personal Products,USD
+STZ,"Constellation Brands, Inc.",22431735808.0,12.401322,3.14,Consumer Defensive,Beverages - Brewers,USD
+GLW,Corning Incorporated,138285645824.0,69.94131,0.76,Technology,Electronic Components,USD
+LHX,"L3Harris Technologies, Inc.",53283454976.0,28.932255,1.8,Industrials,Aerospace & Defense,USD
+GRMN,Garmin Ltd.,59657175040.0,31.923117,1.43,Technology,Scientific & Technical Instruments,USD
+BKR,Baker Hughes Company,61247987712.0,19.71246,1.51,Energy,Oil & Gas Equipment & Services,USD
+CBRE,"CBRE Group, Inc.",43919884288.0,34.786697,,Real Estate,Real Estate Services,USD
+CTVA,"Corteva, Inc.",51534221312.0,46.812122,0.95,Basic Materials,Agricultural Inputs,USD
+HES,N/A,,,,N/A,N/A,USD
+CCI,Crown Castle Inc.,34007339008.0,31.763264,5.54,Real Estate,REIT - Specialty,USD
+DAL,"Delta Air Lines, Inc.",61211553792.0,14.727848,0.85,Industrials,Airlines,USD
+CTSH,Cognizant Technology Solutions Corporation,26331910144.0,11.972042,2.39,Technology,Information Technology Services,USD
+F,Ford Motor Company,56902991872.0,,4.16,Consumer Cyclical,Auto Manufacturers,USD
+VRSK,"Verisk Analytics, Inc.",25143091200.0,29.477724,1.04,Industrials,Consulting Services,USD
+EA,Electronic Arts Inc.,52639006720.0,59.807693,0.36,Communication Services,Electronic Gaming & Multimedia,USD
+ODFL,"Old Dominion Freight Line, Inc.",45441069056.0,42.019234,0.55,Industrials,Trucking,USD
+XEL,Xcel Energy Inc.,48559071232.0,21.29863,3.05,Utilities,Utilities - Regulated Electric,USD
+TRGP,Targa Resources Corp.,56546865152.0,27.49948,1.89,Energy,Oil & Gas Midstream,USD
+A,"Agilent Technologies, Inc.",39207202816.0,27.875504,0.74,Healthcare,Diagnostics & Research,USD
+IT,"Gartner, Inc.",12574233600.0,18.5583,,Technology,Information Technology Services,USD
+LVS,Las Vegas Sands Corp.,29748916224.0,18.372,2.54,Consumer Cyclical,Resorts & Casinos,USD
+SYY,Sysco Corporation,39649271808.0,23.06964,2.59,Consumer Defensive,Food Distribution,USD
+VLO,Valero Energy Corporation,88350539776.0,12.790747,1.56,Energy,Oil & Gas Refining & Marketing,USD
+OTIS,Otis Worldwide Corporation,27975389184.0,18.795395,2.44,Industrials,Specialty Industrial Machinery,USD
+LEN,Lennar Corporation,20938604544.0,13.169697,2.35,Consumer Cyclical,Residential Construction,USD
+EXC,Exelon Corporation,47319564288.0,16.88603,3.67,Utilities,Utilities - Regulated Electric,USD
+IR,Ingersoll Rand Inc.,34628947968.0,36.880165,0.09,Industrials,Specialty Industrial Machinery,USD
+YUM,"Yum! Brands, Inc.",40313909248.0,18.598236,2.02,Consumer Cyclical,Restaurants,USD
+KHC,The Kraft Heinz Company,31440893952.0,,6.06,Consumer Defensive,Packaged Foods,USD
+GEHC,GE HealthCare Technologies Inc.,31883362304.0,16.149769,0.2,Healthcare,Medical Devices,USD
+IQV,IQVIA Holdings Inc.,37427568640.0,28.246582,,Healthcare,Diagnostics & Research,USD
+GIS,"General Mills, Inc.",19392292864.0,,6.78,Consumer Defensive,Packaged Foods,USD
+CCL,Carnival Corporation Ltd.,40562159616.0,13.34009,1.57,Consumer Cyclical,Travel Services,USD
+RMD,ResMed Inc.,32048758784.0,21.30569,1.14,Healthcare,Medical Instruments & Supplies,USD
+VMC,Vulcan Materials Company,36855431168.0,31.74386,0.73,Basic Materials,Building Materials,USD
+HSY,The Hershey Company,35819057152.0,24.353851,3.27,Consumer Defensive,Confectioners,USD
+ACGL,Arch Capital Group Ltd.,34113640448.0,7.827856,,Financial Services,Insurance - Diversified,USD
+IDXX,"IDEXX Laboratories, Inc.",46200983552.0,42.441303,,Healthcare,Diagnostics & Research,USD
+WAB,Westinghouse Air Brake Technologies Corporation,50658054144.0,40.419136,0.43,Industrials,Railroads,USD
+ROK,"Rockwell Automation, Inc.",49766162432.0,46.490643,1.15,Industrials,Specialty Industrial Machinery,USD
+MLM,"Martin Marietta Materials, Inc.",33175265280.0,35.887913,0.61,Basic Materials,Building Materials,USD
+EXR,Extra Space Storage Inc.,33045790720.0,32.980175,4.33,Real Estate,REIT - Industrial,USD
+DD,"DuPont de Nemours, Inc.",19120099328.0,124.2193,1.7,Basic Materials,Specialty Chemicals,USD
+ETR,Entergy Corporation,50914160640.0,27.90537,2.37,Utilities,Utilities - Regulated Electric,USD
+DECK,Deckers Outdoor Corporation,13622952960.0,13.855264,,Consumer Cyclical,Footwear & Accessories,USD
+EFX,Equifax Inc.,20642095104.0,30.878735,1.29,Industrials,Consulting Services,USD
+UAL,"United Airlines Holdings, Inc.",43112599552.0,12.437265,,Industrials,Airlines,USD
+WTW,Willis Towers Watson Public Limited Company,31399071744.0,20.921412,1.14,Financial Services,Insurance Brokers,USD
+TTWO,"Take-Two Interactive Software, Inc.",45128667136.0,,,Communication Services,Electronic Gaming & Multimedia,USD
+HIG,"The Hartford Insurance Group, Inc.",38949879808.0,9.745199,1.68,Financial Services,Insurance - Diversified,USD
+RJF,"Raymond James Financial, Inc.",34492112896.0,15.654132,1.23,Financial Services,Asset Management,USD
+AVB,"AvalonBay Communities, Inc.",26970251264.0,25.908092,3.77,Real Estate,REIT - Residential,USD
+MTB,M&T Bank Corporation,36844138496.0,13.45765,2.44,Financial Services,Banks - Regional,USD
+DXCM,"DexCom, Inc.",32866236416.0,34.424904,,Healthcare,Medical Devices,USD
+ED,"Consolidated Edison, Inc.",39981785088.0,18.45068,3.25,Utilities,Utilities - Regulated Electric,USD
+EBAY,eBay Inc.,48309420032.0,25.128176,1.16,Consumer Cyclical,Internet Retail,USD
+HPQ,HP Inc.,26251374592.0,10.631481,4.42,Technology,Computer Hardware,USD
+IRM,Iron Mountain Incorporated,37556539392.0,135.73119,2.79,Real Estate,REIT - Specialty,USD
+EIX,Edison International,27256375296.0,7.5031786,4.91,Utilities,Utilities - Regulated Electric,USD
+LYV,"Live Nation Entertainment, Inc.",43069554688.0,,,Communication Services,Entertainment,USD
+VICI,VICI Properties Inc.,29206079488.0,10.281008,6.78,Real Estate,REIT - Diversified,USD
+CNC,Centene Corporation,31709540352.0,,,Healthcare,Healthcare Plans,USD
+WEC,"WEC Energy Group, Inc.",35548536832.0,21.183495,3.48,Utilities,Utilities - Regulated Electric,USD
+MCHP,Microchip Technology Incorporated,43896795136.0,367.45453,2.42,Technology,Semiconductors,USD
+HUM,Humana Inc.,43510800384.0,33.242893,0.95,Healthcare,Healthcare Plans,USD
+ANSS,N/A,,,,N/A,N/A,USD
+BRO,"Brown & Brown, Inc.",23774066688.0,22.272728,0.92,Financial Services,Insurance Brokers,USD
+CSGP,"CoStar Group, Inc.",11987770368.0,164.3611,,Real Estate,Real Estate Services,USD
+MPWR,"Monolithic Power Systems, Inc.",66588344320.0,82.643295,0.6,Technology,Semiconductors,USD
+GDDY,GoDaddy Inc.,11277978624.0,12.385258,,Technology,Software - Infrastructure,USD
+TSCO,Tractor Supply Company,17351413760.0,17.231771,3.12,Consumer Cyclical,Specialty Retail,USD
+STT,State Street Corporation,51134361600.0,16.429392,2.0,Financial Services,Asset Management,USD
+CAH,"Cardinal Health, Inc.",54625001472.0,34.759315,0.87,Healthcare,Medical Distribution,USD
+GPN,Global Payments Inc.,24003444736.0,31.451612,1.16,Industrials,Specialty Business Services,USD
+FITB,Fifth Third Bancorp,52667359232.0,19.560606,2.81,Financial Services,Banks - Regional,USD
+XYL,Xylem Inc.,28391997440.0,28.47775,1.44,Industrials,Specialty Industrial Machinery,USD
+HPE,Hewlett Packard Enterprise Company,69818630144.0,47.07589,1.13,Technology,Communication Equipment,USD
+KEYS,"Keysight Technologies, Inc.",58731610112.0,55.341385,,Technology,Scientific & Technical Instruments,USD
+DOW,Dow Inc.,21890535424.0,,4.68,Basic Materials,Chemicals,USD
+EQR,Equity Residential,26113220608.0,29.384783,4.16,Real Estate,REIT - Residential,USD
+ON,ON Semiconductor Corporation,31919056896.0,61.205223,,Technology,Semiconductors,USD
+PPG,"PPG Industries, Inc.",26193608704.0,16.388039,2.6,Basic Materials,Specialty Chemicals,USD
+K,N/A,,,,N/A,N/A,USD
+SW,Smurfit Westrock Plc,25477388288.0,50.596355,3.86,Consumer Cyclical,Packaging & Containers,USD
+NUE,Nucor Corporation,62229073920.0,21.481524,0.86,Basic Materials,Steel,USD
+EL,The Estée Lauder Companies Inc.,31338676224.0,,1.67,Consumer Defensive,Household & Personal Products,USD
+BR,"Broadridge Financial Solutions, Inc.",19486109696.0,18.01925,2.48,Technology,Information Technology Services,USD
+WBD,"Warner Bros. Discovery, Inc.",64796946432.0,,,Communication Services,Entertainment,USD
+TPL,Texas Pacific Land Corporation,27458031616.0,54.161903,0.6,Energy,Oil & Gas E&P,USD
+CHD,"Church & Dwight Co., Inc.",24445048832.0,33.03045,1.24,Consumer Defensive,Household & Personal Products,USD
+MTD,Mettler-Toledo International Inc.,28718800896.0,32.332954,,Healthcare,Diagnostics & Research,USD
+DOV,Dover Corporation,28350187520.0,25.330925,1.01,Industrials,Specialty Industrial Machinery,USD
+TYL,"Tyler Technologies, Inc.",12749875200.0,40.857613,,Technology,Software - Application,USD
+FTV,Fortive Corporation,18361780224.0,31.867725,0.41,Technology,Scientific & Technical Instruments,USD
+TROW,"T. Rowe Price Group, Inc.",24294543360.0,11.446231,4.65,Financial Services,Asset Management,USD
+VLTO,Veralto Corporation,23465109504.0,24.0625,0.55,Industrials,Pollution & Treatment Controls,USD
+EQT,EQT Corporation,33230538752.0,12.325986,1.23,Energy,Oil & Gas E&P,USD
+SYF,Synchrony Financial,25805160448.0,8.134358,1.75,Financial Services,Credit Services,USD
+NVR,"NVR, Inc.",16821425152.0,16.172255,,Consumer Cyclical,Residential Construction,USD
+DTE,DTE Energy Company,29517293568.0,22.44462,3.29,Utilities,Utilities - Regulated Electric,USD
+VTR,"Ventas, Inc.",46657601536.0,165.3818,2.2,Real Estate,REIT - Healthcare Facilities,USD
+AWK,"American Water Works Company, Inc.",26572054528.0,23.213541,2.73,Utilities,Utilities - Regulated Water,USD
+ADM,Archer-Daniels-Midland Company,38373380096.0,35.544643,2.62,Consumer Defensive,Farm Products,USD
+NTAP,"NetApp, Inc.",37481439232.0,30.12756,1.17,Technology,Software - Infrastructure,USD
+WST,"West Pharmaceutical Services, Inc.",24497098752.0,43.675034,0.26,Healthcare,Medical Instruments & Supplies,USD
+CPAY,"Corpay, Inc.",25850966016.0,23.458185,,Technology,Software - Infrastructure,USD
+PPL,PPL Corporation,26546681856.0,21.64724,3.24,Utilities,Utilities - Regulated Electric,USD
+LYB,LyondellBasell Industries N.V.,19739234304.0,,6.8,Basic Materials,Specialty Chemicals,USD
+AEE,Ameren Corporation,30335098880.0,19.291374,2.74,Utilities,Utilities - Regulated Electric,USD
+EXPE,"Expedia Group, Inc.",37226049536.0,27.37511,0.6,Consumer Cyclical,Travel Services,USD
+HBAN,Huntington Bancshares Incorporated,35652239360.0,13.368181,3.64,Financial Services,Banks - Regional,USD
+CDW,CDW Corporation,19385946112.0,18.482946,1.71,Technology,Information Technology Services,USD
+FE,FirstEnergy Corp.,28053911552.0,25.93583,3.84,Utilities,Utilities - Regulated Electric,USD
+HUBB,Hubbell Incorporated,26679812096.0,29.87574,1.19,Industrials,Electrical Equipment & Parts,USD
+HAL,Halliburton Company,27017015296.0,16.932095,2.11,Energy,Oil & Gas Equipment & Services,USD
+ROL,"Rollins, Inc.",18271496192.0,34.522724,1.91,Consumer Cyclical,Personal Services,USD
+PHM,"PulteGroup, Inc.",25130862592.0,13.179819,0.8,Consumer Cyclical,Residential Construction,USD
+CINF,Cincinnati Financial Corporation,27533961216.0,8.4542885,2.11,Financial Services,Insurance - Property & Casualty,USD
+PTC,PTC Inc.,15299926016.0,13.676528,,Technology,Software - Application,USD
+WRB,W. R. Berkley Corporation,26568753152.0,14.817805,0.55,Financial Services,Insurance - Property & Casualty,USD
+DRI,"Darden Restaurants, Inc.",23384037376.0,19.297258,2.97,Consumer Cyclical,Restaurants,USD
+FOXA,Fox Corporation,24664965120.0,15.457895,0.95,Communication Services,Entertainment,USD
+FOX,Fox Corporation,22078375936.0,13.836843,1.06,Communication Services,Entertainment,USD
+IFF,International Flavors & Fragrances Inc.,20580012032.0,24.956656,1.99,Basic Materials,Specialty Chemicals,USD
+SBAC,SBA Communications Corporation,19846510592.0,19.843054,2.78,Real Estate,REIT - Specialty,USD
+WAT,Waters Corporation,38629015552.0,50.118153,,Healthcare,Diagnostics & Research,USD
+ERIE,Erie Indemnity Company,12625649664.0,21.910616,2.47,Financial Services,Insurance Brokers,USD
+TDY,Teledyne Technologies Incorporated,31729203200.0,33.165375,,Technology,Scientific & Technical Instruments,USD
+ATO,Atmos Energy Corporation,28914651136.0,21.306862,2.31,Utilities,Utilities - Regulated Gas,USD
+RF,Regions Financial Corporation,27333744640.0,13.020325,3.48,Financial Services,Banks - Regional,USD
+BIIB,Biogen Inc.,30797105152.0,37.0222,,Healthcare,Drug Manufacturers - General,USD
+ZBH,"Zimmer Biomet Holdings, Inc.",18554986496.0,24.037596,1.02,Healthcare,Medical Devices,USD
+CNP,"CenterPoint Energy, Inc.",27462045696.0,24.815475,2.29,Utilities,Utilities - Regulated Electric,USD
+MKC,"McCormick & Company, Incorporated",14003132416.0,8.566612,3.73,Consumer Defensive,Packaged Foods,USD
+ES,Eversource Energy,27404953600.0,15.537313,4.38,Utilities,Utilities - Regulated Electric,USD
+WDC,Western Digital Corporation,190709153792.0,33.11131,0.11,Technology,Computer Hardware,USD
+TSN,"Tyson Foods, Inc.",20453738496.0,45.77953,3.42,Consumer Defensive,Farm Products,USD
+TER,"Teradyne, Inc.",63475908608.0,55.770603,0.14,Technology,Semiconductor Equipment & Materials,USD
+STE,STERIS plc,22622363648.0,29.271753,1.11,Healthcare,Medical Devices,USD
+PKG,Packaging Corporation of America,22730846208.0,33.089493,2.39,Consumer Cyclical,Packaging & Containers,USD
+CLX,The Clorox Company,12642931712.0,16.517378,5.09,Consumer Defensive,Household & Personal Products,USD
+NTRS,Northern Trust Corporation,33603463168.0,15.765666,1.8,Financial Services,Asset Management,USD
+ZBRA,Zebra Technologies Corporation,17176601600.0,43.49819,,Technology,Communication Equipment,USD
+DVN,Devon Energy Corporation,50761269248.0,12.432203,2.33,Energy,Oil & Gas E&P,USD
+CBOE,"Cboe Global Markets, Inc.",30502209536.0,22.747662,0.97,Financial Services,Financial Data & Stock Exchanges,USD
+WY,Weyerhaeuser Company,18551744512.0,39.0,3.36,Real Estate,REIT - Specialty,USD
+LUV,Southwest Airlines Co.,23758395392.0,28.907738,1.53,Industrials,Airlines,USD
+ULTA,"Ulta Beauty, Inc.",23408541696.0,20.416948,,Consumer Cyclical,Specialty Retail,USD
+CMS,CMS Energy Corporation,22226765824.0,21.671686,3.18,Utilities,Utilities - Regulated Electric,USD
+INVH,Invitation Homes Inc.,18079668224.0,27.174107,4.04,Real Estate,REIT - Residential,USD
+FSLR,"First Solar, Inc.",26322575360.0,24.992855,,Technology,Solar,USD
+BF-B,Brown-Forman Corporation,13017978880.0,18.542484,3.32,Consumer Defensive,Beverages - Wineries & Distilleries,USD
+LDOS,"Leidos Holdings, Inc.",16586700800.0,11.742209,1.45,Technology,Information Technology Services,USD
+CFG,"Citizens Financial Group, Inc.",31337322496.0,15.909872,2.53,Financial Services,Banks - Regional,USD
+LH,Labcorp Holdings Inc.,25279633408.0,25.996672,0.94,Healthcare,Diagnostics & Research,USD
+VRSN,"VeriSign, Inc.",26992535552.0,31.430527,1.12,Technology,Software - Infrastructure,USD
+IP,International Paper Company,22409156608.0,,4.53,Consumer Cyclical,Packaging & Containers,USD
+ESS,"Essex Property Trust, Inc.",19757692928.0,44.580093,3.62,Real Estate,REIT - Residential,USD
+PODD,Insulet Corporation,11563044864.0,39.004673,,Healthcare,Medical Devices,USD
+COO,"The Cooper Companies, Inc.",14535631872.0,63.16102,,Healthcare,Medical Instruments & Supplies,USD
+SMCI,"Super Micro Computer, Inc.",20447655936.0,16.636843,,Technology,Computer Hardware,USD
+STX,Seagate Technology Holdings plc,196522541056.0,64.53193,0.36,Technology,Computer Hardware,USD
+MAA,"Mid-America Apartment Communities, Inc.",15875215360.0,38.90058,4.59,Real Estate,REIT - Residential,USD
+FDS,FactSet Research Systems Inc.,9684675584.0,17.50032,1.72,Financial Services,Financial Data & Stock Exchanges,USD
+NRG,"NRG Energy, Inc.",24681261056.0,124.44713,1.37,Utilities,Utilities - Independent Power Producers,USD
+BBY,"Best Buy Co., Inc.",18270347264.0,16.052776,4.5,Consumer Cyclical,Specialty Retail,USD
+SNA,Snap-on Incorporated,21696942080.0,21.433317,2.38,Industrials,Tools & Accessories,USD
+L,Loews Corporation,23701350400.0,14.750636,0.22,Financial Services,Insurance - Property & Casualty,USD
+PFG,"Principal Financial Group, Inc.",24661643264.0,16.22324,2.96,Financial Services,Asset Management,USD
+STLD,"Steel Dynamics, Inc.",38039277568.0,23.40388,0.82,Basic Materials,Steel,USD
+TRMB,Trimble Inc.,13930743808.0,31.287958,,Technology,Scientific & Technical Instruments,USD
+OMC,Omnicom Group Inc.,23228006400.0,220.27026,4.07,Communication Services,Advertising Agencies,USD
+CTRA,N/A,,,,N/A,N/A,USD
+HRL,Hormel Foods Corporation,13930445824.0,29.436047,4.64,Consumer Defensive,Packaged Foods,USD
+ARE,"Alexandria Real Estate Equities, Inc.",8722187264.0,,5.43,Real Estate,REIT - Office,USD
+BLDR,"Builders FirstSource, Inc.",8074038272.0,81.565216,,Industrials,Building Products & Equipment,USD
+JBHT,"J.B. Hunt Transport Services, Inc.",25636577280.0,38.78125,0.67,Industrials,Integrated Freight & Logistics,USD
+GEN,Gen Digital Inc.,16948710400.0,18.035032,1.77,Technology,Software - Infrastructure,USD
+DGX,Quest Diagnostics Incorporated,25862410240.0,24.87447,1.48,Healthcare,Diagnostics & Research,USD
+KEY,KeyCorp,24865851392.0,13.564327,3.59,Financial Services,Banks - Regional,USD
+NI,NiSource Inc.,21363812352.0,22.169155,2.69,Utilities,Utilities - Regulated Gas,USD
+MOH,"Molina Healthcare, Inc.",10027359232.0,1200.5938,,Healthcare,Healthcare Plans,USD
+PNR,Pentair plc,11079674880.0,17.670101,1.62,Industrials,Specialty Industrial Machinery,USD
+J,Jacobs Solutions Inc.,16949328896.0,42.467453,1.04,Industrials,Engineering & Construction,USD
+DG,Dollar General Corporation,28204208128.0,18.008451,1.85,Consumer Defensive,Discount Stores,USD
+BALL,Ball Corporation,16860060672.0,18.355072,1.23,Consumer Cyclical,Packaging & Containers,USD
+NWS,News Corporation,17595254784.0,40.63625,0.63,Communication Services,Entertainment,USD
+NWSA,News Corporation,15430825984.0,36.088608,0.72,Communication Services,Entertainment,USD
+UDR,"UDR, Inc.",14283377664.0,24.398733,4.53,Real Estate,REIT - Residential,USD
+HOLX,N/A,,,,N/A,N/A,USD
+JBL,Jabil Inc.,35889577984.0,42.866085,0.1,Technology,Electronic Components,USD
+GPC,Genuine Parts Company,18262282240.0,551.9584,3.31,Consumer Cyclical,Auto Parts,USD
+IEX,IDEX Corporation,17550495744.0,33.864864,1.25,Industrials,Specialty Industrial Machinery,USD
+MAS,Masco Corporation,15155825664.0,16.929516,1.79,Industrials,Building Products & Equipment,USD
+KIM,Kimco Realty Corporation,16977761280.0,28.93678,4.08,Real Estate,REIT - Retail,USD
+ALGN,"Align Technology, Inc.",12382774272.0,30.017359,,Healthcare,Medical Instruments & Supplies,USD
+DLTR,"Dollar Tree, Inc.",25174872064.0,21.027287,,Consumer Defensive,Discount Stores,USD
+EXPD,"Expeditors International of Washington, Inc.",23497936896.0,28.97742,0.95,Industrials,Integrated Freight & Logistics,USD
+EG,"Everest Group, Ltd.",14136583168.0,7.79142,2.15,Financial Services,Insurance - Reinsurance,USD
+MRNA,"Moderna, Inc.",22808346624.0,,,Healthcare,Biotechnology,USD
+LNT,Alliant Energy Corporation,18383286272.0,22.295597,3.0,Utilities,Utilities - Regulated Electric,USD
+AVY,Avery Dennison Corporation,13280260096.0,18.974863,2.36,Consumer Cyclical,Packaging & Containers,USD
+BAX,Baxter International Inc.,14421603328.0,,0.14,Healthcare,Medical Instruments & Supplies,USD
+TPR,"Tapestry, Inc.",31529078784.0,47.57622,1.05,Consumer Cyclical,Luxury Goods,USD
+VTRS,Viatris Inc.,20536887296.0,,2.72,Healthcare,Drug Manufacturers - Specialty & Generic,USD
+CF,"CF Industries Holdings, Inc.",18148227072.0,10.642342,2.03,Basic Materials,Agricultural Inputs,USD
+FFIV,"F5, Inc.",23439304704.0,32.55525,,Technology,Software - Infrastructure,USD
+DPZ,"Domino's Pizza, Inc.",12142816256.0,19.830091,2.18,Consumer Cyclical,Restaurants,USD
+AKAM,"Akamai Technologies, Inc.",17886773248.0,41.56419,,Technology,Software - Infrastructure,USD
+RL,Ralph Lauren Corporation,22523365376.0,25.07886,0.98,Consumer Cyclical,Apparel Manufacturing,USD
+TXT,Textron Inc.,15530023936.0,16.819208,0.09,Industrials,Aerospace & Defense,USD
+SWKS,"Skyworks Solutions, Inc.",10093744128.0,35.321053,4.63,Technology,Semiconductors,USD
+EVRG,"Evergy, Inc.",19310075904.0,22.279255,3.34,Utilities,Utilities - Regulated Electric,USD
+EPAM,"EPAM Systems, Inc.",5788685312.0,15.91954,,Technology,Information Technology Services,USD
+DOC,"Healthpeak Properties, Inc.",14888017920.0,67.484375,5.64,Real Estate,REIT - Healthcare Facilities,USD
+APTV,Aptiv PLC,10121809920.0,27.97076,,Consumer Cyclical,Auto Parts,USD
+RVTY,"Revvity, Inc.",12356361216.0,53.250004,0.24,Healthcare,Diagnostics & Research,USD
+AMCR,Amcor plc,21774170112.0,37.08268,5.65,Consumer Cyclical,Packaging & Containers,USD
+REG,Regency Centers Corporation,14906220544.0,26.84512,3.76,Real Estate,REIT - Retail,USD
+POOL,Pool Corporation,7369903616.0,18.62259,2.66,Industrials,Industrial Distribution,USD
+INCY,Incyte Corporation,24286230528.0,15.400386,,Healthcare,Biotechnology,USD
+BXP,"BXP, Inc.",12621774848.0,38.056454,3.99,Real Estate,REIT - Office,USD
+KMX,"CarMax, Inc.",8254968832.0,35.469513,,Consumer Cyclical,Auto & Truck Dealerships,USD
+CAG,"Conagra Brands, Inc.",7178484736.0,,8.44,Consumer Defensive,Packaged Foods,USD
+HST,"Host Hotels & Resorts, Inc.",17385783296.0,17.047619,3.19,Real Estate,REIT - Hotel & Motel,USD
+JKHY,"Jack Henry & Associates, Inc.",11042556928.0,21.706398,1.52,Technology,Information Technology Services,USD
+SWK,"Stanley Black & Decker, Inc.",15447492608.0,25.009779,3.42,Industrials,Tools & Accessories,USD
+DVA,DaVita Inc.,14960561152.0,23.100595,,Healthcare,Medical Care Facilities,USD
+CPB,The Campbell's Company,6803575296.0,11.183824,6.97,Consumer Defensive,Packaged Foods,USD
+CHRW,"C.H. Robinson Worldwide, Inc.",17983408128.0,29.314285,1.71,Industrials,Integrated Freight & Logistics,USD
+JNPR,N/A,,,,N/A,N/A,USD
+CPT,Camden Property Trust,10980228096.0,36.570957,3.83,Real Estate,REIT - Residential,USD
+TAP,Molson Coors Beverage Company,7895911936.0,,4.58,Consumer Defensive,Beverages - Brewers,USD
+NDSN,Nordson Corporation,17300422656.0,33.208553,1.08,Industrials,Specialty Industrial Machinery,USD
+PAYC,"Paycom Software, Inc.",8065554944.0,19.457817,0.89,Technology,Software - Application,USD
+UHS,"Universal Health Services, Inc.",10087474176.0,6.7737803,0.47,Healthcare,Medical Care Facilities,USD
+NCLH,Norwegian Cruise Line Holdings Ltd.,9167685632.0,12.1,,Consumer Cyclical,Travel Services,USD
+DAY,N/A,,,,N/A,N/A,USD
+SJM,The J. M. Smucker Company,12737506304.0,,3.81,Consumer Defensive,Packaged Foods,USD
+TECH,Bio-Techne Corporation,11233169408.0,102.99286,0.44,Healthcare,Biotechnology,USD
+SOLV,Solventum Corporation,15157983232.0,10.395487,,Healthcare,Medical Instruments & Supplies,USD
+ALLE,Allegion plc,14020865024.0,21.111397,1.31,Industrials,Security & Protection Services,USD
+BG,Bunge Global SA,20609579008.0,23.119614,2.73,Consumer Defensive,Farm Products,USD
+AIZ,"Assurant, Inc.",13974909952.0,14.449282,1.26,Financial Services,Insurance - Property & Casualty,USD
+IPG,N/A,,,,N/A,N/A,USD
+BEN,"Franklin Resources, Inc.",18161207296.0,23.362745,3.75,Financial Services,Asset Management,USD
+EMN,Eastman Chemical Company,8414439424.0,19.166666,4.67,Basic Materials,Specialty Chemicals,USD
+ALB,Albemarle Corporation,14290141184.0,,1.38,Basic Materials,Specialty Chemicals,USD
+MGM,MGM Resorts International,11622041600.0,27.530302,,Consumer Cyclical,Resorts & Casinos,USD
+AOS,A. O. Smith Corporation,8570395136.0,17.3719,2.37,Industrials,Specialty Industrial Machinery,USD
+WYNN,"Wynn Resorts, Limited",10090903552.0,28.181826,1.02,Consumer Cyclical,Resorts & Casinos,USD
+PNW,Pinnacle West Capital Corporation,12348973056.0,19.011194,3.61,Utilities,Utilities - Regulated Electric,USD
+ENPH,"Enphase Energy, Inc.",5524111360.0,41.498413,,Technology,Solar,USD
+LKQ,LKQ Corporation,6094820352.0,12.882353,5.14,Consumer Cyclical,Auto Parts,USD
+FRT,Federal Realty Investment Trust,10672710656.0,24.806063,3.75,Real Estate,REIT - Retail,USD
+CRL,"Charles River Laboratories International, Inc.",11325196288.0,,,Healthcare,Diagnostics & Research,USD
+GNRC,Generac Holdings Inc.,12948460544.0,49.428093,,Industrials,Specialty Industrial Machinery,USD
+AES,The AES Corporation,10478782464.0,7.6528645,4.78,Utilities,Utilities - Diversified,USD
+GL,Globe Life Inc.,14259072000.0,12.089863,0.72,Financial Services,Insurance - Life,USD
+LW,"Lamb Weston Holdings, Inc.",7281107456.0,25.461538,2.89,Consumer Defensive,Packaged Foods,USD
+HSIC,"Henry Schein, Inc.",10189853696.0,27.024168,,Healthcare,Medical Distribution,USD
+MKTX,MarketAxess Holdings Inc.,5713917952.0,19.214201,1.92,Financial Services,Capital Markets,USD
+MTCH,"Match Group, Inc.",9612446720.0,15.728245,2.03,Communication Services,Internet Content & Information,USD
+TFX,Teleflex Incorporated,6228818944.0,2345.0,0.97,Healthcare,Medical Instruments & Supplies,USD
+WBA,N/A,,,,N/A,N/A,USD
+HAS,"Hasbro, Inc.",12956344320.0,16.793419,3.06,Consumer Cyclical,Leisure,USD
+IVZ,Invesco Ltd.,14116962304.0,,2.91,Financial Services,Asset Management,USD
+APA,APA Corporation,12652466176.0,8.3438225,2.71,Energy,Oil & Gas E&P,USD
+MOS,The Mosaic Company,7197637632.0,161.75,4.03,Basic Materials,Agricultural Inputs,USD
+PARA,N/A,,,,N/A,N/A,USD
+MHK,"Mohawk Industries, Inc.",9295705088.0,16.838037,,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USD
+CE,Celanese Corporation,4931524608.0,,0.27,Basic Materials,Chemicals,USD
+HII,"Huntington Ingalls Industries, Inc.",12781275136.0,19.31864,1.69,Industrials,Aerospace & Defense,USD
+CZR,"Caesars Entertainment, Inc.",6121797120.0,,,Consumer Cyclical,Resorts & Casinos,USD
+BWA,BorgWarner Inc.,12985827328.0,36.80814,1.07,Consumer Cyclical,Auto Parts,USD
+QRVO,"Qorvo, Inc.",8423937536.0,22.155453,,Technology,Semiconductors,USD
+FMC,FMC Corporation,1300480768.0,,3.09,Basic Materials,Agricultural Inputs,USD
+AMTM,"Amentum Holdings, Inc.",5880693760.0,40.116665,,Industrials,Specialty Business Services,USD
