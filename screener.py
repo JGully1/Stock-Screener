@@ -36,10 +36,11 @@ for col in numeric_columns:
 
 screener_df.to_csv('sp500_stock_screener.csv', index=False)  # Save the data to a CSV file for later use
 
-def rank_stocks(df, column, ascending=False,top_n=20):
-    df['Rank'] = df[column].rank(ascending=ascending,method='min')
-    ranked_df = df.sort_values(by='Rank').head(top_n)
-    return ranked_df[['Rank', 'Ticker', 'Company Name', column]]
+# This function can be used in the dashboard.py to rank stocks based on a specific column and display the top N stocks. For example, you can call:
+# def rank_stocks(df, column, ascending=False,top_n=20):
+   #  df['Rank'] = df[column].rank(ascending=ascending,method='min')
+   #  ranked_df = df.sort_values(by='Rank').head(top_n)
+   #  return ranked_df[['Rank', 'Ticker', 'Company Name', column]]
 
 #This function can be used in the dashboard.py to rank stocks based on a specific column and display the top N stocks. For example, you can call: 
-rank_stocks(screener_df, column='Market Cap (USD)', ascending=False, top_n=10)
+#rank_stocks(screener_df, column='Market Cap (USD)', ascending=False, top_n=10)
