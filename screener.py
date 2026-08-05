@@ -19,6 +19,9 @@ for ticker in tickers_df['Symbol']:
         'Market Cap (USD)': info.get('marketCap', 'N/A'),
         'P/E Ratio': info.get('trailingPE', 'N/A'),
         'Dividend Yield': info.get('dividendYield', 'N/A'),
+        'ROE': info.get('returnOnEquity', 'N/A'),
+        'Debt': info.get('totalDebt', 'N/A'),
+        'Revenue Growth': info.get('revenueGrowth', 'N/A'),
         'Sector': info.get('sector', 'N/A'),
         'Industry': info.get('industry', 'N/A'),
         'Currency': info.get('currency', 'USD'),
@@ -27,7 +30,7 @@ for ticker in tickers_df['Symbol']:
 
 screener_df = pd.DataFrame(screener_data)
 
-numeric_columns = ['Market Cap (USD)', 'P/E Ratio', 'Dividend Yield']
+numeric_columns = ['Market Cap (USD)', 'P/E Ratio', 'Dividend Yield', 'ROE', 'Debt', 'Revenue Growth']
 
 for col in numeric_columns:
     screener_df[col] = pd.to_numeric(screener_df[col], errors='coerce')
