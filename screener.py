@@ -38,7 +38,7 @@ for col in numeric_columns:
 # Currently Market Cap is in USD, but if other companies are in different currencies, you may need to convert them to USD using exchange rates.
 
 screener_df.to_csv('sp500_stock_screener.csv', index=False)  # Save the data to a CSV file for later use
-
+screener_df.to_excel('sp500_stock_screener.xlsx', index=False)  # Save the data to an Excel file for later use
 # This function can be used in the dashboard.py to rank stocks based on a specific column and display the top N stocks. For example, you can call:
 # def rank_stocks(df, column, ascending=False,top_n=20):
    #  df['Rank'] = df[column].rank(ascending=ascending,method='min')
